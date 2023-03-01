@@ -1,0 +1,14 @@
+/home/ec2-user/.stack/programs/x86_64-linux/ghc-tinfo6-9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /home/ec2-user/exercism/haskell/sum-of-multiples/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/autogen/Paths_sum_of_multiples.hs
+: hash: a80780245f1a66e7ec137bc4739998beca8a824d317e937d0cbdea074077472a
+/home/ec2-user/exercism/haskell/sum-of-multiples/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 836f77f8a6073763947189f0858500ba606d39fc89695c7e5175b013f91c9d3f
+/home/ec2-user/exercism/haskell/sum-of-multiples/package.yaml:
+  hash: b0245edaf4cdf6c00e91390f508defb05ee30791fa9027306d8f75fd057f58c8
+/home/ec2-user/exercism/haskell/sum-of-multiples/src/SumOfMultiples.hs:
+  hash: c8c42f3570088cb136225c4f25dce80ea7490aba41e45ff07faec5d947dd16a1
+/home/ec2-user/exercism/haskell/sum-of-multiples/sum-of-multiples.cabal:
+  hash: 60ea96cc2bea982a74506180acf2ec29aa37c2cfc48a1ff28d8afc6a2645f7e0
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

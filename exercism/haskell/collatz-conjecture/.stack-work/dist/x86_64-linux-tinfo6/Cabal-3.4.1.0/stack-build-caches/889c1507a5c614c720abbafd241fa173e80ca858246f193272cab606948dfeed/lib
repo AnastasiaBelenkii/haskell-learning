@@ -1,0 +1,14 @@
+/home/ec2-user/.stack/programs/x86_64-linux/ghc-tinfo6-9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /home/ec2-user/exercism/haskell/collatz-conjecture/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/autogen/Paths_collatz_conjecture.hs
+: hash: e2f1fe86f080fe21286e1176a1aa4595abbf616d9096e79db59697a280b41aea
+? /home/ec2-user/exercism/haskell/collatz-conjecture/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/autogen/cabal_macros.h
+: hash: a0ef50d1f01a289d4d0c054a45257759e9c34aef7073122705fccea8ca6e8afe
+/home/ec2-user/exercism/haskell/collatz-conjecture/collatz-conjecture.cabal:
+  hash: 2ec76c888b889e63c596c43efebd9e1fc6cf5ed40f70cccd597b8820f8ff0089
+/home/ec2-user/exercism/haskell/collatz-conjecture/package.yaml:
+  hash: e04e546810251e29e1b3a5bae523e047724b2e3b36899b4d241b93721a71f1a4
+/home/ec2-user/exercism/haskell/collatz-conjecture/src/CollatzConjecture.hs:
+  hash: 80ea0e7ee8c43399d0bd41514e7ee814a5d7f027dc5a2d9546a7302985469075
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

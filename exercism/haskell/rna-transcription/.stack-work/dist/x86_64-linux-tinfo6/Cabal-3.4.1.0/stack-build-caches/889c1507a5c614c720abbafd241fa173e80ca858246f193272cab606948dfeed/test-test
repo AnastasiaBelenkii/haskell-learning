@@ -1,0 +1,14 @@
+/home/ec2-user/.stack/programs/x86_64-linux/ghc-tinfo6-9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /home/ec2-user/exercism/haskell/rna-transcription/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/test/autogen/Paths_rna_transcription.hs
+: hash: b55f33dd3b8925cbe8ba60196d3c1c16f42f2be392a56c0e66cc742086d4b006
+? /home/ec2-user/exercism/haskell/rna-transcription/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h
+: hash: 484dd14938a2df41f258a3b39d9279a792f00050527998c0174d40631505c1a0
+/home/ec2-user/exercism/haskell/rna-transcription/package.yaml:
+  hash: 4f54d0cd4b2b8ee9904d405dfbabf72d105a901346ac5fe67aedaad8112a4e29
+/home/ec2-user/exercism/haskell/rna-transcription/rna-transcription.cabal:
+  hash: 184ea9b6f8d62ed58a12b0d95cf0128fa757f42d34326647b9a8bb73aca613b3
+/home/ec2-user/exercism/haskell/rna-transcription/test/Tests.hs:
+  hash: 69eb63595bd853229423b78c7f6512dccc120f3a577f8af9ce9d987bd799a89d
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff
